@@ -1,0 +1,20 @@
+(aulotty-3.9.6) yang.yang@MACMH24Q4HWDG src % [2025-08-16 21:53:03] % python lottery_analyzer.py
+
+=== Analyzing Oz Lotto ===
+Downloading historical data for oz_lotto...
+
+Oz Lotto Prediction:
+Main numbers: [1, 7, 20, 28, 38, 40, 44]
+Supplementary numbers: [15, 31]
+Saved frequency plot to data/frequencies_oz_lotto_main_numbers.png
+
+=== Analyzing Powerball ===
+Downloading historical data for powerball...
+
+Powerball Prediction:
+Main numbers: [2, 9, 11, 18, 20, 31, 35]
+Powerball: 3
+Saved frequency plot to data/frequencies_powerball_main_numbers.png
+
+Analysis complete! Check the 'data' directory for results.
+(aulotty-3.9.6) yang.yang@MACMH24Q4HWDG src % [2025-08-16 21:53:03] %
